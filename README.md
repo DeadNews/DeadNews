@@ -1,2 +1,1 @@
-![](https://raw.githubusercontent.com/DeadNews/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/DeadNews/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=DeadNews&count_private=true&show_icons=true&theme=github_dark)
